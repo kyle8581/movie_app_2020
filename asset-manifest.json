@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kyle8581/movie_app_2020/static/css/main.d437e055.chunk.css",
+    "main.js": "/kyle8581/movie_app_2020/static/js/main.58ac4c31.chunk.js",
+    "main.js.map": "/kyle8581/movie_app_2020/static/js/main.58ac4c31.chunk.js.map",
+    "runtime-main.js": "/kyle8581/movie_app_2020/static/js/runtime-main.b3be97da.js",
+    "runtime-main.js.map": "/kyle8581/movie_app_2020/static/js/runtime-main.b3be97da.js.map",
+    "static/js/2.2843fa90.chunk.js": "/kyle8581/movie_app_2020/static/js/2.2843fa90.chunk.js",
+    "static/js/2.2843fa90.chunk.js.map": "/kyle8581/movie_app_2020/static/js/2.2843fa90.chunk.js.map",
+    "index.html": "/kyle8581/movie_app_2020/index.html",
+    "static/css/main.d437e055.chunk.css.map": "/kyle8581/movie_app_2020/static/css/main.d437e055.chunk.css.map",
+    "static/js/2.2843fa90.chunk.js.LICENSE.txt": "/kyle8581/movie_app_2020/static/js/2.2843fa90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3be97da.js",
+    "static/js/2.2843fa90.chunk.js",
+    "static/css/main.d437e055.chunk.css",
+    "static/js/main.58ac4c31.chunk.js"
+  ]
+}
